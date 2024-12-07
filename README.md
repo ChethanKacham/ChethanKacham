@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChethanKacham&label=Profile%20views&color=0e75b6&style=flat" alt="ChethanKacham" /> </p>
 
-- 🔭 I’m currently working on **Tourism and Travel Tracker, Chat Application**
-
-- 🌱 I’m currently learning **Flask, Next.js, Tailwind**
-
-- 💬 Ask me about **Python, Scikit-Learn, Node.js, React.js**
-
 - 📫 How to reach me **chethankacham06@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://chethankacham.github.io/)
