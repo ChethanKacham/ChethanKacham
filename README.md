@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **chethankacham06@gmail.com**
 
-<!-- Need to uncomment this after building the portfolio
 - 📄 Know about my experiences [Portfolio](https://chethankacham.github.io/) 
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
